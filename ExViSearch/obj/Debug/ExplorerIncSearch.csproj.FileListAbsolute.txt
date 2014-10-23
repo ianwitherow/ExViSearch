@@ -1,0 +1,12 @@
+C:\Users\ian.witherow\Dropbox (Source)\Projects\ExplorerIncSearch\ExplorerIncSearch\bin\Debug\ExplorerIncSearch.exe.config
+C:\Users\ian.witherow\Dropbox (Source)\Projects\ExplorerIncSearch\ExplorerIncSearch\bin\Debug\ExplorerIncSearch.exe
+C:\Users\ian.witherow\Dropbox (Source)\Projects\ExplorerIncSearch\ExplorerIncSearch\bin\Debug\ExplorerIncSearch.pdb
+C:\Users\ian.witherow\Dropbox (Source)\Projects\ExplorerIncSearch\ExplorerIncSearch\obj\Debug\ExplorerIncSearch.csprojResolveAssemblyReference.cache
+C:\Users\ian.witherow\Dropbox (Source)\Projects\ExplorerIncSearch\ExplorerIncSearch\obj\Debug\ExplorerIncSearch.Form1.resources
+C:\Users\ian.witherow\Dropbox (Source)\Projects\ExplorerIncSearch\ExplorerIncSearch\obj\Debug\ExplorerIncSearch.Properties.Resources.resources
+C:\Users\ian.witherow\Dropbox (Source)\Projects\ExplorerIncSearch\ExplorerIncSearch\obj\Debug\ExplorerIncSearch.csproj.GenerateResource.Cache
+C:\Users\ian.witherow\Dropbox (Source)\Projects\ExplorerIncSearch\ExplorerIncSearch\obj\Debug\ExplorerIncSearch.exe
+C:\Users\ian.witherow\Dropbox (Source)\Projects\ExplorerIncSearch\ExplorerIncSearch\obj\Debug\ExplorerIncSearch.pdb
+C:\Users\ian.witherow\Dropbox (Source)\Projects\ExplorerIncSearch\ExplorerIncSearch\obj\Debug\Interop.SHDocVw.dll
+C:\Users\ian.witherow\Dropbox (Source)\Projects\ExplorerIncSearch\ExplorerIncSearch\obj\Debug\Interop.Shell32.dll
+C:\Users\ian.witherow\Dropbox (Source)\Projects\ExplorerIncSearch\ExplorerIncSearch\obj\Debug\ExplorerIncSearch.csproj.ResolveComReference.cache
